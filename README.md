@@ -24,4 +24,4 @@ This Bank Management System is a Java Swing application that facilitates basic b
 
 - Java Swing for the graphical user interface. 
 - MySQL for the database.
-- JDBC for database connectivity.)
+- JDBC for database connectivity.
