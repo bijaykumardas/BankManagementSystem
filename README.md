@@ -19,7 +19,8 @@ This Bank Management System is a Java Swing application that facilitates basic b
 -**Check Balance**:
   Display the current account balance.
 
-##Technologies Used
-  Java Swing for the graphical user interface.  
-  MySQL for the database.
-  JDBC for database connectivity.
+## Technologies Used
+
+- Java Swing for the graphical user interface. 
+- MySQL for the database.
+- JDBC for database connectivity.)
